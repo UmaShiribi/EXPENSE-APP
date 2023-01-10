@@ -1,0 +1,24 @@
+.user-data-sub-container{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.second-data {
+    margin-left: 130px;
+}
+.second-data-sub{
+    margin-left: 94px;
+}
+.form-data{
+    display: flex;
+    align-items: baseline;
+}
+
+.form-data h6{
+    margin: 0px 12px ;
+}
+.form-data img{
+    cursor: pointer;
+}

@@ -1,0 +1,14 @@
+.form-container{
+    max-width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+}
+.form-register{
+    width: 100%;
+    padding: 30px 24px;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: -3px 2px 52px 14px rgba(0,0,0,0.1);
+}

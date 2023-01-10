@@ -1,0 +1,22 @@
+.budget-container{
+    padding: 36px 24px;
+    border-radius: 8px;
+    background-color: #F4EFE9;
+}
+.budget-toggle-body{
+    margin: 14px 0px;
+}
+.budget-amount{
+    display: flex;
+    align-items: baseline;
+}
+.budget-amount h5{
+    margin-right: 10px;
+}
+
+.budget-form-btns{
+    margin-top: 12px;
+}
+.budget-form-btns button{
+    margin-left: 12px;
+}

@@ -1,0 +1,18 @@
+.expense-nav-container{
+    position: fixed;
+    top: 0%;
+    width: 100%;
+    padding: 10px 0px;
+    background-color: #fff;
+    box-shadow: -3px 13px 15px -3px rgba(0,0,0,0.1);
+}
+.expense-nav-bar{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+a{
+    text-decoration: none !important;
+    color: rgb(0, 0, 0);
+}

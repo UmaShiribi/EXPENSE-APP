@@ -1,0 +1,19 @@
+.chart-container{
+    margin-top: 26px;
+    margin-bottom: 46px;
+}
+.chart-container h6{
+    margin-bottom: 12px;
+}
+.chart-calulation{
+    height: 250px;
+    width: auto;
+    margin: 0px 46px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.chart-titles{
+    display: flex;
+    flex-direction: column;
+}
