@@ -37,4 +37,4 @@ update Budget estimation ,
 maintain their categories, expenses and total Budget with CRUD operation in Redux store
 once the user logout - token will removed and redirect to home page - login section
 Back-End Url
-Open https://github.com/UmaShiribi/Expense-App-Client to view it in your browser.
+Open https://github.com/UmaShiribi/Expense-App-Server to view it in your browser.
